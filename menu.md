@@ -1,5 +1,5 @@
 ## Menu
-[Japanese Food](#japanese-food) | [Italian food](#italian-food) | [Indian food](#indian-food) | [Chinese Food](#chinese-food) | [Thai food](#thai-food)
+[Japanese Food](#japanese-food) | [Italian Food](#italian-food) | [Indian Food](#indian-food) | [Chinese Food](#chinese-food) | [Thai Food](#thai-food)
 
 ## Japanese Food
 | Menu                               |Description                                         | Price  |
@@ -55,7 +55,7 @@
 | Chicken Fried Rice | Cooked in a wok or frying pan, this dish tosses fried rice with egg, vegetables, and chicken over steamy temperatures |  65฿ |
 | Char Siu | Cooked in five-spiced powder, honey, and red yeast, Char Siu can be fire-roasted to perfection, allowing for a sweet and savory experience with each bite |  80฿ |
 
-## Thai food
+## Thai Food
 |          Menu               |    Description                   | Price  |
 |:-----------------------------------|-----------------------|-------:|
 | Pad Thai    |Sweet and sour stir-fry rice noodle with shrimp. Serve with a condiment on the side for you to adjust it to your favourite flavour |    79฿    |
