@@ -6,7 +6,8 @@ This is the international cafe in IUP.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Indian Food](menu.md)                |  Pisit             |
-| [Japanese Food](menu.md)              | Napon              |
-| [Chinese Food](menu.md)               | Chamarak           |
-| [Thai Food](menu.md)               | Tanakorn           |
+| [Indian Food](menu.md#indian-food)                |  Pisit             |
+| [Japanese Food](menu.md#japanese-food)              | Napon              |
+| [Italian Food](menu.md#italian-food)               | Ratchaprapa        |
+| [Chinese Food](menu.md#chinese-food)               | Chamarak           |
+| [Thai Food](menu.md#thai-food)               | Tanakorn           |
