@@ -1,9 +1,10 @@
-# Name of Your Cafe
+# IUP Cafe
 
-Write a one or two sentence description of your cafe.
+This is the international cafe in IUP.
 
 ## [Menu](menu.md)
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|[Japanese Food](menu.md)               | Napon              |
+| [Indian Food](menu.md)                |  Pisit             |
+| [Japanese Food](menu.md)              | Napon              |
