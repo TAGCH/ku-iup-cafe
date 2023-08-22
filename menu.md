@@ -1,5 +1,5 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Japanese Food](#japanese-food) | ...
 
-## First Food Section
+## Japanese Food
