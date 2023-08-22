@@ -7,3 +7,4 @@ This is the international cafe in IUP.
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
 | [Indian Food](menu.md)                |  Pisit             |
+| [Japanese Food](menu.md)              | Napon              |

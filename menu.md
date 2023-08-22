@@ -1,6 +1,14 @@
 ## Menu
+[Japanese Food](#japanese-food) | [Indian Food](#Indian-Food)
 
-[Indian Food](#Indian-Food) | 
+## Japanese Food
+| Menu                               |Description                                         | Price  |
+|:-----------------------------------|----------------------------------------------------|-------:|
+| Ramen                              |Noodle soup with various broths, pork and egg       |  200฿  |
+| Shrimp Tempura                     |Deep-fried battered shrimp, crispy and light        |  240฿  |
+| Udon                               |Thick wheat noodles in soy-based broth              |  180฿  |
+| Yakitori                           |Grilled skewered chicken with flavorful sauces      |  60฿   |
+| Gyoza                              |Pan-fried dumplings filled with meat and vegetables |  80฿   |
 
 ## Indian Food
 |          Menu               |    Description                   | Price  |
@@ -16,5 +24,3 @@
 | Chole Bhature    |A typical Punjabi street food, chole bhature, also known as chana bhatura, consists of chickpeas (chana) in a spicy sauce served with puffed, fried bread similar to a puri. |      25฿  |
 | Matar Kulcha    |Another favorite street food from North India is matar kulcha. |      45฿  |
 | Dosa    |Dosas are an icon of South Indian food, with a legacy dating back to ancient times. |      35฿  |
-
-
